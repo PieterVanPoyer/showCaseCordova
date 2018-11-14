@@ -1,13 +1,13 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-15:12
 MERGED from [:CordovaLib] D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
-INJECTED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-15:12
 	package
 		ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:2:102-144
 		INJECTED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml
@@ -86,35 +86,7 @@ MERGED from [:CordovaLib] D:\ontwikkeling\nworkspace\showCaseCordova\platforms\a
 		ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:13:42-71
 	android:minSdkVersion
 		ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:13:15-41
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:14:5-81
-	android:name
-		ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:14:22-78
-uses-permission#android.permission.READ_CONTACTS
-ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:15:5-72
-	android:name
-		ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:15:22-69
-uses-permission#android.permission.WRITE_CONTACTS
-ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:16:5-73
-	android:name
-		ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:16:22-70
-uses-permission#android.permission.GET_ACCOUNTS
-ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:17:5-71
-	android:name
-		ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:17:22-68
-uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:18:5-81
-	android:name
-		ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:18:22-78
-uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:19:5-79
-	android:name
-		ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:19:22-76
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:20:5-79
-	android:name
-		ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:20:22-76
 uses-permission#android.permission.VIBRATE
-ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:21:5-66
+ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:14:5-66
 	android:name
-		ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:21:22-63
+		ADDED from D:\ontwikkeling\nworkspace\showCaseCordova\platforms\android\app\src\main\AndroidManifest.xml:14:22-63
